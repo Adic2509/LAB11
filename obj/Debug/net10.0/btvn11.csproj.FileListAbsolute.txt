@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\Pictures\Documents\btvn11\obj\Debug\net10.0\btvn11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Pictures\Documents\btvn11\obj\Debug\net10.0\btvn11.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Pictures\Documents\btvn11\obj\Debug\net10.0\btvn11.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Pictures\Documents\btvn11\obj\Debug\net10.0\btvn11.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Pictures\Documents\btvn11\bin\Debug\net10.0\btvn11.exe
+C:\Users\Admin\OneDrive\Pictures\Documents\btvn11\bin\Debug\net10.0\btvn11.deps.json
+C:\Users\Admin\OneDrive\Pictures\Documents\btvn11\bin\Debug\net10.0\btvn11.runtimeconfig.json
+C:\Users\Admin\OneDrive\Pictures\Documents\btvn11\bin\Debug\net10.0\btvn11.dll
+C:\Users\Admin\OneDrive\Pictures\Documents\btvn11\bin\Debug\net10.0\btvn11.pdb
+C:\Users\Admin\OneDrive\Pictures\Documents\btvn11\obj\Debug\net10.0\btvn11.dll
+C:\Users\Admin\OneDrive\Pictures\Documents\btvn11\obj\Debug\net10.0\refint\btvn11.dll
+C:\Users\Admin\OneDrive\Pictures\Documents\btvn11\obj\Debug\net10.0\btvn11.pdb
+C:\Users\Admin\OneDrive\Pictures\Documents\btvn11\obj\Debug\net10.0\btvn11.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Pictures\Documents\btvn11\obj\Debug\net10.0\ref\btvn11.dll
